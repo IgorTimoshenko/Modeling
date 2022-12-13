@@ -1,0 +1,31 @@
+C:\Model\Model\Model\bin\Debug\Model.exe.config
+C:\Model\Model\Model\bin\Debug\Model.exe
+C:\Model\Model\Model\bin\Debug\Model.pdb
+C:\Model\Model\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Model\Model\Model\obj\Debug\Model.Form1.resources
+C:\Model\Model\Model\obj\Debug\Model.Properties.Resources.resources
+C:\Model\Model\Model\obj\Debug\Model.csproj.GenerateResource.cache
+C:\Model\Model\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Model\Model\Model\obj\Debug\Model.exe
+C:\Model\Model\Model\obj\Debug\Model.pdb
+E:\Новая папка\Model\Model\Model\bin\Debug\Model.exe.config
+E:\Новая папка\Model\Model\Model\bin\Debug\Model.exe
+E:\Новая папка\Model\Model\Model\bin\Debug\Model.pdb
+E:\Новая папка\Model\Model\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\Новая папка\Model\Model\Model\obj\Debug\Model.Form1.resources
+E:\Новая папка\Model\Model\Model\obj\Debug\Model.Properties.Resources.resources
+E:\Новая папка\Model\Model\Model\obj\Debug\Model.csproj.GenerateResource.cache
+E:\Новая папка\Model\Model\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\Новая папка\Model\Model\Model\obj\Debug\Model.exe
+E:\Новая папка\Model\Model\Model\obj\Debug\Model.pdb
+C:\Users\Admin\Desktop\портфолио\Игорь сессия\6 семестр\Новая папка\Model\Model\Model\bin\Debug\Model.exe.config
+C:\Users\Admin\Desktop\портфолио\Игорь сессия\6 семестр\Новая папка\Model\Model\Model\bin\Debug\Model.exe
+C:\Users\Admin\Desktop\портфолио\Игорь сессия\6 семестр\Новая папка\Model\Model\Model\bin\Debug\Model.pdb
+C:\Users\Admin\Desktop\портфолио\Игорь сессия\6 семестр\Новая папка\Model\Model\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\портфолио\Игорь сессия\6 семестр\Новая папка\Model\Model\Model\obj\Debug\Model.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\портфолио\Игорь сессия\6 семестр\Новая папка\Model\Model\Model\obj\Debug\Model.Form1.resources
+C:\Users\Admin\Desktop\портфолио\Игорь сессия\6 семестр\Новая папка\Model\Model\Model\obj\Debug\Model.Properties.Resources.resources
+C:\Users\Admin\Desktop\портфолио\Игорь сессия\6 семестр\Новая папка\Model\Model\Model\obj\Debug\Model.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\портфолио\Игорь сессия\6 семестр\Новая папка\Model\Model\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\портфолио\Игорь сессия\6 семестр\Новая папка\Model\Model\Model\obj\Debug\Model.exe
+C:\Users\Admin\Desktop\портфолио\Игорь сессия\6 семестр\Новая папка\Model\Model\Model\obj\Debug\Model.pdb
